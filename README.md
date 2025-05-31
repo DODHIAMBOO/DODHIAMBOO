@@ -5,6 +5,7 @@
 **Transforming raw data into actionable intelligence.**
 
 **Core Domains:**
+
 -Predictive Modelling
 
 -Data Visulization
