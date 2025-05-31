@@ -1,9 +1,13 @@
-## Hello👋
-### Data Scientist|Data Analyst|ML Specialist
+## Hello👋##
+
+### Data Scientist|Data Analyst|ML Specialist###
+
 **Transforming raw data into actionable intelligence.**
+
 **Core Domains:**
 -Predictive Modelling 
 -Data Visulization
 -Testing and Statistical Inference
 -Business intelligence
+
 *Open to cpllaborations on innovative data/ML projects.*
