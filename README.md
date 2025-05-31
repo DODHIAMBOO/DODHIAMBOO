@@ -1,6 +1,6 @@
-## Hello👋##
+## Hello👋
 
-### Data Scientist|Data Analyst|ML Specialist###
+### Data Scientist|Data Analyst|ML Specialist
 
 **Transforming raw data into actionable intelligence.**
 
