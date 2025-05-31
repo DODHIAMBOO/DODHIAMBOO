@@ -5,9 +5,13 @@
 **Transforming raw data into actionable intelligence.**
 
 **Core Domains:**
--Predictive Modelling 
+
+-Predictive Modelling
+
 -Data Visulization
+
 -Testing and Statistical Inference
+
 -Business intelligence
 
-*Open to cpllaborations on innovative data/ML projects.*
+*Open to collaborations on innovative data/ML projects.*
